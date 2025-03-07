@@ -101,8 +101,12 @@ Power Query (M Language) – Data transformation
 #
 #
 ## 📸 Screenshots
-(Add relevant dashboard screenshots here)
 
+![Image](https://github.com/user-attachments/assets/f15e393c-4c48-4840-8eba-70d539e92f25 )
+
+
+
+#
 📢 Let’s Connect!
 
 💬 Feedback & Suggestions? Drop a comment below!!!!!!!!
