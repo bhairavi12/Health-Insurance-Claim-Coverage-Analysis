@@ -9,7 +9,7 @@
 
 #
 ## 📈 Key Features
-✔️ Executive Summary Dashboard – Quick overview of total claims, insured patients, and approval rates.
+✔️ <ins>Executive Summary Dashboard</ins>– Quick overview of total claims, insured patients, and approval rates.
 
 ✔️ Claim Analysis – Insights into approved vs. rejected claims per insurance provider.
 
@@ -100,9 +100,16 @@ Power Query (M Language) – Data transformation
 
 #
 #
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/f15e393c-4c48-4840-8eba-70d539e92f25 )
+<!-- https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png-->
+
+<!--![Image](https://github.com/user-attachments/assets/f15e393c-4c48-4840-8eba-70d539e92f25 )-->
+
+<p align="center">
+  <img width="600" height="350" src="https://github.com/bhairavi12/Health-Insurance-Claim-Coverage-Analysis/blob/main/Firstpg.png">
+</p>
+
 
 
 
