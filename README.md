@@ -11,15 +11,15 @@
 ## 📈 Key Features
 ✔️ <ins>Executive Summary Dashboard</ins>– Quick overview of total claims, insured patients, and approval rates.
 
-✔️ Claim Analysis – Insights into approved vs. rejected claims per insurance provider.
+✔️ <ins>Claim Analysis</ins> – Insights into approved vs. rejected claims per insurance provider.
 
-✔️ Billing & Revenue Trends – Identify top hospitals by claim amounts.
+✔️ <ins>Billing & Revenue Trends</ins> – Identify top hospitals by claim amounts.
 
-✔️ Patient Retention – Track patient revisit rates per insurance plan.
+✔️ <ins>Patient Retention</ins> – Track patient revisit rates per insurance plan.
 
-✔️ Fraud Detection – Spot duplicate claims and anomalies in claim processing.
+✔️ <ins>Fraud Detection </ins>– Spot duplicate claims and anomalies in claim processing.
 
-✔️ DAX-Powered Insights – Advanced calculations for deeper analysis.
+✔️ <ins>DAX-Powered Insights</ins> – Advanced calculations for deeper analysis.
 
 #
 #
