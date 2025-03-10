@@ -129,4 +129,4 @@ Power Query (M Language) – Data transformation
 #
 ### 🔹 Star ⭐ this repository if you found it useful!
 #
-#PowerBI #HealthcareAnalytics #DataVisualization #Insurance #DAX #SQL #FraudDetection
+#PowerBI #HealthcareAnalytics #DataVisualization #Insurance #DAX #SQL #heathcare #insurance
